@@ -1,0 +1,33 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,300&display=swap');
+
+.card
+{
+    display: flex;
+    flex-direction: column;
+    box-shadow: 1px 2px 3 px blue;
+    border-radius: 8px;
+    margin-top: 10px;
+    padding: 10px;
+    max-width: 100%;
+    margin-bottom: 10px;
+}
+.contenet
+{
+  display: flex;
+  flex-direction: column;
+  padding: 10px;
+  justify-content: space-between;
+
+}
+.descri
+{
+    display: flex;
+  flex-direction: column;
+  padding: 10px;
+}
+.lowertext{
+    display: flex;
+    flex-direction: column;
+    padding: 10px;
+}
