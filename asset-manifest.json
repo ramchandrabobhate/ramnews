@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ramnews/static/css/main.83022f1f.css",
+    "main.js": "/ramnews/static/js/main.f56bfc39.js",
+    "index.html": "/ramnews/index.html",
+    "main.83022f1f.css.map": "/ramnews/static/css/main.83022f1f.css.map",
+    "main.f56bfc39.js.map": "/ramnews/static/js/main.f56bfc39.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.83022f1f.css",
+    "static/js/main.f56bfc39.js"
+  ]
+}
